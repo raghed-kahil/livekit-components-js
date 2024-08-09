@@ -9,7 +9,7 @@
 <!--END_BANNER_IMAGE-->
 
 <h1>
-  LiveKit Components
+  LiveKit Components (Fork to implement svelte components)
 </h1>
 
 <!--BEGIN_DESCRIPTION-->
